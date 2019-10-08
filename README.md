@@ -1,2 +1,2 @@
 # video-maker
-Open Source - Automatizados de Vídeos
+Open Source - Automatizador de Vídeos
